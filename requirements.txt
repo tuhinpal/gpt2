@@ -1,0 +1,6 @@
+Flask
+flask_cors
+transformers
+torch
+torchvision
+torchaudio
